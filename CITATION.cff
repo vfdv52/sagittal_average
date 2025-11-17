@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Charles"
+    given-names: "W"
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional: your ORCID ID
+    affiliation: "University College London"
+    email: "your.email@ucl.ac.uk"
+title: "SagittalBrain: A Python library for brain imaging plane analysis"
+version: 0.1.0
+date-released: 2024-11-17
+url: "https://github.com/YOUR_USERNAME/sagittal_average"
+repository-code: "https://github.com/YOUR_USERNAME/sagittal_average"
+keywords:
+  - neuroimaging
+  - brain imaging
+  - sagittal plane
+  - python
+  - medical imaging
+license: MIT
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Your Last Name"
+      given-names: "Your First Name"
+  title: "SagittalBrain: A Python library for brain imaging plane analysis"
+  version: 0.1.0
+  year: 2024
+  url: "https://github.com/YOUR_USERNAME/sagittal_average"

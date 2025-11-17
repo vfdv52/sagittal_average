@@ -118,7 +118,7 @@ If you use this software in your research, please cite it as described in [CITAT
 
 ## Authors
 
-- Your Name (@your_github_username)
+- Charles (@vfdv52)
 
 ## Acknowledgments
 

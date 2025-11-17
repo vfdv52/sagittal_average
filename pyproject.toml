@@ -6,8 +6,11 @@ build-backend = "hatchling.build"
 name = "SagittalBrain"
 version = "0.1.0"
 dependencies = [
-    "numpy",
+    "numpy>=1.20.0",
 ]
+
+[project.scripts]
+sagittal_average_run = "sagittal_brain.command:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/sagittal_brain"]
